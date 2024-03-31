@@ -1,0 +1,3 @@
+[submodule "dawdle-todo"]
+	path = dawdle-todo
+	url = https://github.com/CvRain/dawdle-todo.git
