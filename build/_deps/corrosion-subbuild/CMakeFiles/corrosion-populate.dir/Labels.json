@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/CMakeFiles/corrosion-populate"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/CMakeFiles/corrosion-populate.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/CMakeFiles/corrosion-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-build.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-download.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-install.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-test.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"corrosion-populate"
+		],
+		"name" : "corrosion-populate"
+	}
+}

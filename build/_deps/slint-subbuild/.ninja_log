@@ -1,0 +1,21 @@
+# ninja log v5
+3	66	1711952927231158013	slint-populate-prefix/src/slint-populate-stamp/slint-populate-mkdir	9ed02309fcd7c456
+3	66	1711952927231158013	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-mkdir	9ed02309fcd7c456
+67	59439	1711952986605008660	slint-populate-prefix/src/slint-populate-stamp/slint-populate-download	1a565ab5c5944f68
+67	59439	1711952986605008660	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-download	1a565ab5c5944f68
+59440	62068	0	slint-populate-prefix/src/slint-populate-stamp/slint-populate-update	99cc87480b2a205d
+59440	62068	0	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-update	99cc87480b2a205d
+62069	62131	1711952989296769288	slint-populate-prefix/src/slint-populate-stamp/slint-populate-patch	2721a89d85b33d14
+62069	62131	1711952989296769288	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-patch	2721a89d85b33d14
+62131	62191	1711952989356340872	slint-populate-prefix/src/slint-populate-stamp/slint-populate-configure	5c45a5656e70548a
+62131	62191	1711952989356340872	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-configure	5c45a5656e70548a
+62192	62248	1711952989413219682	slint-populate-prefix/src/slint-populate-stamp/slint-populate-build	c991277999d65ac3
+62192	62248	1711952989413219682	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-build	c991277999d65ac3
+62248	62321	1711952989483061559	slint-populate-prefix/src/slint-populate-stamp/slint-populate-install	379297c301ac3cc6
+62248	62321	1711952989483061559	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-install	379297c301ac3cc6
+62321	62408	1711952989573100606	slint-populate-prefix/src/slint-populate-stamp/slint-populate-test	5faffe1aed8622b0
+62321	62408	1711952989573100606	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-test	5faffe1aed8622b0
+62408	62494	1711952989659816884	CMakeFiles/slint-populate-complete	4d855c42f0f9eb62
+62408	62494	1711952989659816884	slint-populate-prefix/src/slint-populate-stamp/slint-populate-done	4d855c42f0f9eb62
+62408	62494	1711952989659816884	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/CMakeFiles/slint-populate-complete	4d855c42f0f9eb62
+62408	62494	1711952989659816884	/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-done	4d855c42f0f9eb62

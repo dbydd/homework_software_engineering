@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/CMakeFiles/slint-populate"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/CMakeFiles/slint-populate.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/CMakeFiles/slint-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-build.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-download.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-install.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-test.rule"
+		},
+		{
+			"file" : "/Users/dbydd/Documents/homework_software_engineering/build/_deps/slint-subbuild/slint-populate-prefix/src/slint-populate-stamp/slint-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"slint-populate"
+		],
+		"name" : "slint-populate"
+	}
+}

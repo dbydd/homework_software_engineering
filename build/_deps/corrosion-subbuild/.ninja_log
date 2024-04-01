@@ -1,0 +1,21 @@
+# ninja log v5
+2	65	1711952990117498726	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-mkdir	36b78d61dd1257a5
+2	65	1711952990117498726	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-mkdir	36b78d61dd1257a5
+66	5707	1711952995760210967	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-download	fe95a602fb939046
+66	5707	1711952995760210967	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-download	fe95a602fb939046
+5707	5833	0	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-update	fb495146a609937f
+5707	5833	0	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-update	fb495146a609937f
+5833	5878	1711952995931618561	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-patch	5364950fc3e2dcf9
+5833	5878	1711952995931618561	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-patch	5364950fc3e2dcf9
+5879	5928	1711952995981368776	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-configure	3171a4d98b1f7926
+5879	5928	1711952995981368776	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-configure	3171a4d98b1f7926
+5928	5982	1711952996033805705	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-build	b17abc5171413bbc
+5928	5982	1711952996033805705	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-build	b17abc5171413bbc
+5982	6027	1711952996079707668	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-install	c0fda535f0f7e0b6
+5982	6027	1711952996079707668	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-install	c0fda535f0f7e0b6
+6027	6080	1711952996133121735	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-test	cafef57987ca3547
+6027	6080	1711952996133121735	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-test	cafef57987ca3547
+6081	6146	1711952996199238783	CMakeFiles/corrosion-populate-complete	43c8026cf47ed0f0
+6081	6146	1711952996199238783	corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-done	43c8026cf47ed0f0
+6081	6146	1711952996199238783	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/CMakeFiles/corrosion-populate-complete	43c8026cf47ed0f0
+6081	6146	1711952996199238783	/Users/dbydd/Documents/homework_software_engineering/build/_deps/corrosion-subbuild/corrosion-populate-prefix/src/corrosion-populate-stamp/corrosion-populate-done	43c8026cf47ed0f0
